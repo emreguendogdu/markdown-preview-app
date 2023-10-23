@@ -12,6 +12,7 @@
 }
 
 body {
+  width: 100vw;
   display: flex;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #282c34;
@@ -19,22 +20,17 @@ body {
   font-size: 1.25rem;
   color: white;
   #editor {
-    width: 40vw;
-    height: 100vh;
+    width: 50vw;
     background-color: #ede9da;
-      background-color: #333;
-      color: #fff;
-      width: 50vw;
-      height: 100vh;
-      padding: 5rem 2.5rem 0 2.5rem;
-      border: none;
-      outline: none;
-      overflow: auto;
+    color: black;
+    padding: 5rem 2.5rem 0 2.5rem;
+    border: none;
+    outline: none;
+    overflow: auto;
   }
   #preview {
-    padding: 2.5rem;
-    margin: 0 auto;
     height: 100%;
+    padding: 2.5rem;
   }
   blockquote {
     display: inline-block;
