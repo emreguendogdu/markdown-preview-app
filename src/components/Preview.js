@@ -1,5 +1,7 @@
 import React, { useEffect } from 'react';
 import Prism from "prismjs";
+import '../styles/prism.css';
+import '../styles/Preview.scss';
 import { marked } from 'marked';
 
 export default function Preview(props) {

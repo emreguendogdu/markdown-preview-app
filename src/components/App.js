@@ -1,6 +1,5 @@
 import React, { useState } from 'react';  
-import './App.scss';  
-import './prism.css';
+import '../styles/App.scss';  
 import Preview from './Preview';
 import { placeholder } from "./Placeholder";
 
