@@ -1,8 +1,8 @@
-export const placeholder = `# Welcome to React Markdown Previewer!
+export const placeholder = `# Welcome to my React Markdown Previewer!
 
 ### And here's some other cool stuff:
 
-Heres some inline code; \`<div></div>\` between 2 backticks.
+Heres some inline code; \`<div></div>\` between 2 backticks. // TODO fix prism not highlighing on inline code.
 
 \`\`\`javascript
 // or a multi-line code

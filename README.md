@@ -1,6 +1,7 @@
-Markdown previewer app for FreeCodeCamp Front End Libraries certification. 
+### Hi, this is the _Markdown previewer app_ for FreeCodeCamp Front End Libraries certification.
 
-LINK: https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer
+**Link to the challenge:**https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer
 
-DEMO: # markdown-preview-app
-# markdown-preview-app
+**DEMO:**
+
+> You can use `npm run deploy` to update the gh-pages/project demo. 
