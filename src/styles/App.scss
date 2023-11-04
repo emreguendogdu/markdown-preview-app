@@ -20,7 +20,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: $main-color;
   line-height: 1.5;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   color: snow;
   margin: 0;
   padding: 0;
@@ -99,7 +99,6 @@ body {
   p:has(img) img {
     display: inline-block;
     object-fit: contain;
-    width: 35%;
-    height: 25%;
+    width: 48%;
   }
 }
