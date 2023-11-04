@@ -34,7 +34,20 @@ Changing Lanes 💬 | Drama, Thriller | 6.5 | 2002 |
 - In the language of Incas, largest empire in pre-Columbian America, the word for human body is *alpa camasca*, which literally means **animated earth**.
 - Universe consists 4% of atomic matter, or what we consider, normal matter. 23% of the universe is the dark matter, and 73% is the dark energy, what we previously thought an empty space. 
   - Invisible nervous system that runs the universe, connecting all things.
+- There are still 2 billion people around the world without access to safely drinkable water.
 
-![William Blake](https://cryrzzvxza.cloudimg.io/rybikyem.beget.tech/painters/72/5.jpg)
-And who is this? [William Blake](https://en.wikipedia.org/wiki/William_Blake).
+![William Blake painting](https://cryrzzvxza.cloudimg.io/rybikyem.beget.tech/painters/72/5.jpg)
+![William Blake painting 2](src/styles/blake2.webp)
+
+And who created these masterpieces? [William Blake](https://en.wikipedia.org/wiki/William_Blake).
+
+#### TODO:
+- [X] Update website
+- [ ] Get outside
+- [ ] Workout
+- [ ] Greet other people
+- [ ] Pet every cat you see
+
+Reach me out at [LinkedIn](https://www.linkedin.com/in/osman-emre-gundogdu-066282257/), or [GitHub](https://github.com/emreguendogdu) or I prefer [Twitter](https://twitter.com/osmangund/).
+// TODO Give color to these link holders. Find a way to add classes?
 `
