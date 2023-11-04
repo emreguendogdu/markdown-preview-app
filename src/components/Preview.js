@@ -3,13 +3,15 @@ import Prism from "prismjs";
 import '../styles/prism.css';
 import MarkdownIt from 'markdown-it';
 import MarkdownItAttrs from 'markdown-it-attrs';
+import MarkdownItTaskLists from 'markdown-it-task-lists';
 
 function Preview({ value }) {
   useEffect(() => {
     // Initialize markdown-it
     const md = new MarkdownIt();
-    // Use markdown-it-attrs plugin
+    // Use markdown-it-attrs and markdown-it-task-lists plugins
     md.use(MarkdownItAttrs);
+    md.use(MarkdownItTaskLists);
 
     // Customize the renderer
     const renderer = md.renderer;
