@@ -16,13 +16,13 @@ function checkWeather(weather) {
   }
 }
 \`\`\`
-### Now let's switch the channel:
+### Now switch the channel:
 
 Usage of italics include denoting titles like *Bhagavad Gita*. Basically, names of things are italicized. Movies, podcasts, books, albums, operas, foreign words.
 On the other hand, bold texts **increases average read time!** It makes content more scannable. As everybody is a full-speed rat for consuming content these days, bold texts give us valuable things to take away **faster**. Make sure you don't use it too much like ~~**_that_**~~ though. 
 Also, never more ~~long tutorials~~. Always make stuff.
 
- > “Nothing in this world is harder than speaking the truth, nothing easier than flattery.” - Dostoevsky
+> “Nothing in this world is harder than speaking the truth, nothing easier than flattery.” - Dostoevsky
 
 Some movies I added on my watchlist that [Eckhart Tolle recommends](https://m.imdb.com/list/ls057211237/):
 
