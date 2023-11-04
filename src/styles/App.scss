@@ -39,7 +39,9 @@ body {
     height: 100%;
     padding: 0 2.5rem;
   }
-
+  h1 {
+    font-size: 2rem
+  }
   // Paragraphs, plain text
   p {
     text-indent: 1rem;
@@ -94,9 +96,10 @@ body {
     }
 
   // ![alt](link) Images
-  img {
+  p:has(img) img {
+    display: inline-block;
     object-fit: contain;
-    width: 25%;
+    width: 35%;
     height: 25%;
   }
 }
