@@ -24,20 +24,23 @@ body {
   color: snow;
   margin: 0;
   padding: 0;
+
+  // Editor section
   #editor {
-    width: 50vw;
+    width: 100vw;
     background-color: $editor-color;
     color: black;
-    padding: 2.5rem 2.5rem 0 2.5rem;
-    border: none;
-    outline: none;
-    overflow: auto;
+    padding: 2.5rem;
+    font-size: 1rem;
   }
+
+  // Preview section
   #preview {
     height: 100%;
     padding: 0 2.5rem;
   }
 
+  // Paragraphs, plain text
   p {
     text-indent: 1rem;
   }
@@ -54,6 +57,7 @@ body {
   // 1. - Lists
   ol, ul {
     list-style-position: inside;
+    margin: 0;
   }
 
   // > Quotes
@@ -73,6 +77,7 @@ body {
       max-width: 100%;
       white-space: nowrap;
       background-color: white;
+      margin: 15px;
     }
     table td, table th {
       text-align: center;
@@ -88,8 +93,10 @@ body {
     background-color: $rain;
     }
 
+  // ![alt](link) Images
   img {
-    width: 300px;
-    height: 300px;
+    object-fit: contain;
+    width: 25%;
+    height: 25%;
   }
 }
