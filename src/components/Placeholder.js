@@ -2,7 +2,7 @@ export const placeholder = `# Welcome to my React Markdown Previewer!
 
 ### Let's start with some codes as usual: 
 You can do \`Math.random()\` between 2 backticks.
-
+Am I allowed to test? {.class}
 \`\`\`javascript
 // or a multi-line code
 function isHi(word) {
@@ -11,7 +11,7 @@ function isHi(word) {
   }
 }
 \`\`\`
-### Now switching the channel!
+### Now switching the channel!
 
 Usage of italics include denoting titles like *Bhagavad Gita*. Basically, names of things are italicized. Movies, podcasts, books, albums, operas, foreign words.
 On the other hand, bold texts **increases average read time!** It makes content more scannable. As everybody is a full-speed rat for consuming content these days, bold texts give us valuable things to take away **faster**. Make sure you don't use it too much like ~~**_that_**~~ though. 
@@ -48,5 +48,5 @@ And who created these masterpieces? [William Blake](https://en.wikipedia.org/wik
 - [ ] Greet other people
 - [ ] Pet every cat you see
 
-Reach me out at [LinkedIn](https://www.linkedin.com/in/osman-emre-gundogdu-066282257/), or [GitHub](https://github.com/emreguendogdu) or [Twitter](https://twitter.com/osmangund/)!
+Feel free to reach me out at [LinkedIn](https://www.linkedin.com/in/osman-emre-gundogdu-066282257/), or [GitHub](https://github.com/emreguendogdu) or [Twitter](https://twitter.com/osmangund/){style="color:#1DA1F2"}!
 `
