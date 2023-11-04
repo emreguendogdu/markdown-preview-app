@@ -1,13 +1,18 @@
 export const placeholder = `# Welcome to my React Markdown Previewer!
 
 ### Let's start with some codes as usual: 
-You can do \`Math.random()\` between 2 backticks.
-Am I allowed to test? {.class}
+
+Inline as \`Math.random()\`. Or go bigger:
+
 \`\`\`javascript
-// or a multi-line code
-function isHi(word) {
-  if (word.toLowerCase() === "hi" || word.toLowerCase() === "hello") { 
-    return true;
+function checkWeather(weather) {
+  switch (weather) {
+    case "sunny":
+      return "🌞🌅";
+    case "rainy":
+      return "🌧️💧";
+    default:
+      return "👽🌌";
   }
 }
 \`\`\`
@@ -39,6 +44,7 @@ Changing Lanes 💬🗣️ | Drama, Thriller | 6.5 | 2002 |
 - There are still 2 billion people around the world without access to safely drinkable water.
 
 ![William Blake painting](/markdown-preview-app/assets/blake1.jpg)
+
 ![William Blake painting 2](/markdown-preview-app/assets/blake2.webp)
 
 And who created these masterpieces? [William Blake](https://en.wikipedia.org/wiki/William_Blake).
