@@ -13,12 +13,12 @@ function Preview({ value }) {
 
     // Customize the renderer
     const renderer = md.renderer;
-    renderer.code = function (code) {
+    renderer.code = (code) => {
       // Give block codes Js class and pre element for Prism highlight.
       return `<pre><code class="language-javascript">${code}</code></pre>\n`;
     };
     // Give inline codes Js class for Prism highlight.
-    renderer.codespan = function (code) {
+    renderer.codespan = (code) => {
       return `<code class="language-javascript">${code}</code>`;
     };
 
@@ -29,7 +29,7 @@ function Preview({ value }) {
 
   return (
     <>
-      <div id='preview'></div>
+      <div id='preview'/>
     </>
   );
 }
