@@ -1,44 +1,40 @@
-export const placeholder = `# Welcome toReact Markdown Previewer!
+export const placeholder = `# Welcome to my React Markdown Previewer!
 
-### And here's some other cool stuff:
-
-Heres some inline code; \`Math.random()\` between 2 backticks.
+### Let's start with some codes as usual: 
+You can do \`Math.random()\` between 2 backticks.
 
 \`\`\`javascript
 // or a multi-line code
 function isHi(word) {
-  if (word.toLowerCase() === "hi" || word.toLowerCase() === "hello") {
+  if (word.toLowerCase() === "hi" || word.toLowerCase() === "hello") { 
     return true;
   }
 }
 \`\`\`
+### Now switching the channel!
 
+Usage of italics include denoting titles like *Bhagavad Gita*. Basically, names of things are italicized. Movies, podcasts, books, albums, operas, foreign words.
+On the other hand, bold texts **increases average read time!** It makes content more scannable. As everybody is a full-speed rat for consuming content these days, bold texts give us valuable things to take away **faster**. Make sure you don't use it too much like ~~**_that_**~~ though. 
+Also, never more ~~long tutorials~~. Always make stuff.
 
-You can also make text **bold**... whoa!
-Or _italic_.
-Or... wait for it... **_both!_**
-And feel free to go crazy ~~crossing stuff out~~.
+ > “Nothing in this world is harder than speaking the truth, nothing easier than flattery.” - Dostoevsky
 
-There's also [links](https://www.freecodecamp.org), and
- > "The two most powerful warriors are patience and time." - Leo Tolstoy
+Some movies I added on my watchlist that [Eckhart Tolle recommends](https://m.imdb.com/list/ls057211237/):
 
-And if you want to get really crazy, even tables:
+Name | Genre | iMDB Rating | Release date |
+---- | ----- | ----------- | ------------ |
+Gran Torino 🪖 | Drama | 8.1 | 2008 |
+The Horse Whisperer 🏇 | Drama, Romance, Western | 6.7 | 1998 |
+The Jewel of the Nile 🧥 | Action, Adventure, Comedy | 6.1 | 1985 |
+The Painted Veil 🌄 | Drama, Romance | 7.4 | 2006 |
+American Beauty 🍓 | Drama | 8.3 | 1999 | 
+King of Hearts 🤴🏽 | Comedy, Drama, War | 7.4 | 1966 |
+Changing Lanes 💬 | Drama, Thriller | 6.5 | 2002 |
 
-Wild Header | Crazy Header | Another Header?
------------- | ------------- | -------------
-Your content can | be here, and it | can be here....
-And here. | Okay. | I think we get it.
-
-- And of course there are lists.
-  - Some are bulleted.
-     - With different indentation levels.
-        - That look like this.
-
-
-1. And there are numbered lists too.
-1. Use just 1s if you want!
-
- # Embedded images
+- In the language of Incas, largest empire in pre-Columbian America, the word for human body is *alpa camasca*, which literally means **animated earth**.
+- Universe consists 4% of atomic matter, or what we consider, normal matter. 23% of the universe is the dark matter, and 73% is the dark energy, what we previously thought an empty space. 
+  - Invisible nervous system that runs the universe, connecting all things.
 
 ![William Blake](https://cryrzzvxza.cloudimg.io/rybikyem.beget.tech/painters/72/5.jpg)
+And who is this? [William Blake](https://en.wikipedia.org/wiki/William_Blake).
 `
