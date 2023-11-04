@@ -23,21 +23,21 @@ Some movies I added on my watchlist that [Eckhart Tolle recommends](https://m.im
 
 Name | Genre | iMDB Rating | Release date |
 ---- | ----- | ----------- | ------------ |
-Gran Torino 🪖 | Drama | 8.1 | 2008 |
-The Horse Whisperer 🏇 | Drama, Romance, Western | 6.7 | 1998 |
+Gran Torino 🪖👴🏼🏎️ | Drama | 8.1 | 2008 |
+The Horse Whisperer 🏇🏞️ | Drama, Romance, Western | 6.7 | 1998 |
 The Jewel of the Nile 🧥 | Action, Adventure, Comedy | 6.1 | 1985 |
 The Painted Veil 🌄 | Drama, Romance | 7.4 | 2006 |
-American Beauty 🍓 | Drama | 8.3 | 1999 | 
-King of Hearts 🤴🏽 | Comedy, Drama, War | 7.4 | 1966 |
-Changing Lanes 💬 | Drama, Thriller | 6.5 | 2002 |
+American Beauty 🍓❤️‍🔥   | Drama | 8.3 | 1999 | 
+King of Hearts 🤴🏽🂾 | Comedy, Drama, War | 7.4 | 1966 |
+Changing Lanes 💬🗣️ | Drama, Thriller | 6.5 | 2002 |
 
 - In the language of Incas, largest empire in pre-Columbian America, the word for human body is *alpa camasca*, which literally means **animated earth**.
 - Universe consists 4% of atomic matter, or what we consider, normal matter. 23% of the universe is the dark matter, and 73% is the dark energy, what we previously thought an empty space. 
   - Invisible nervous system that runs the universe, connecting all things.
 - There are still 2 billion people around the world without access to safely drinkable water.
 
-![William Blake painting](https://cryrzzvxza.cloudimg.io/rybikyem.beget.tech/painters/72/5.jpg)
-![William Blake painting 2](src/styles/blake2.webp)
+![William Blake painting](/markdown-preview-app/assets/blake1.jpg)
+![William Blake painting 2](/markdown-preview-app/assets/blake2.webp)
 
 And who created these masterpieces? [William Blake](https://en.wikipedia.org/wiki/William_Blake).
 
@@ -48,6 +48,5 @@ And who created these masterpieces? [William Blake](https://en.wikipedia.org/wik
 - [ ] Greet other people
 - [ ] Pet every cat you see
 
-Reach me out at [LinkedIn](https://www.linkedin.com/in/osman-emre-gundogdu-066282257/), or [GitHub](https://github.com/emreguendogdu) or I prefer [Twitter](https://twitter.com/osmangund/).
-// TODO Give color to these link holders. Find a way to add classes?
+Reach me out at [LinkedIn](https://www.linkedin.com/in/osman-emre-gundogdu-066282257/), or [GitHub](https://github.com/emreguendogdu) or [Twitter](https://twitter.com/osmangund/)!
 `
