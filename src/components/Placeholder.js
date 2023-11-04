@@ -11,7 +11,7 @@ function isHi(word) {
   }
 }
 \`\`\`
-### Now switching the channel!
+### Now let's switch the channel:
 
 Usage of italics include denoting titles like *Bhagavad Gita*. Basically, names of things are italicized. Movies, podcasts, books, albums, operas, foreign words.
 On the other hand, bold texts **increases average read time!** It makes content more scannable. As everybody is a full-speed rat for consuming content these days, bold texts give us valuable things to take away **faster**. Make sure you don't use it too much like ~~**_that_**~~ though. 
@@ -31,7 +31,9 @@ American Beauty 🍓❤️‍🔥   | Drama | 8.3 | 1999 |
 King of Hearts 🤴🏽🂾 | Comedy, Drama, War | 7.4 | 1966 |
 Changing Lanes 💬🗣️ | Drama, Thriller | 6.5 | 2002 |
 
-- In the language of Incas, largest empire in pre-Columbian America, the word for human body is *alpa camasca*, which literally means **animated earth**.
+### In the meantime:
+
+- The Incan Empire, the most expansive pre-Columbian civilization in the Americas, had a term for the **human body** in their language: *alpa camasca*. This phrase literally means **animated earth**.
 - Universe consists 4% of atomic matter, or what we consider, normal matter. 23% of the universe is the dark matter, and 73% is the dark energy, what we previously thought an empty space. 
   - Invisible nervous system that runs the universe, connecting all things.
 - There are still 2 billion people around the world without access to safely drinkable water.
@@ -49,4 +51,6 @@ And who created these masterpieces? [William Blake](https://en.wikipedia.org/wik
 - [ ] Pet every cat you see
 
 Feel free to reach me out at [LinkedIn](https://www.linkedin.com/in/osman-emre-gundogdu-066282257/), or [GitHub](https://github.com/emreguendogdu) or [Twitter](https://twitter.com/osmangund/){style="color:#1DA1F2"}!
+
+® 2023 - osmangund {style="font-size: .8rem;text-align:right;"}
 `
