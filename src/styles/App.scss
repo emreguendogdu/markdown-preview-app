@@ -96,9 +96,9 @@ body {
     }
 
   // ![alt](link) Images
-  p:has(img) img {
-    display: inline-block;
-    object-fit: contain;
-    width: 48%;
-  }
+  img {
+        display: inline-block;
+        object-fit: contain;
+        width: 48%;
+      }
 }
