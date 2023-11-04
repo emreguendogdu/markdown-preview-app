@@ -1,7 +1,6 @@
 import React, { useEffect, memo } from 'react';
 import Prism from "prismjs";
 import '../styles/prism.css';
-import '../styles/Preview.scss';
 import { marked } from 'marked';
 
 // Configure marked outside the component, so it's only done once
