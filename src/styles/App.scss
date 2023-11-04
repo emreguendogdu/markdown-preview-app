@@ -1,10 +1,11 @@
 $main-color: #282c34;
 $editor-color: #ede9da;
-*, html {
+$rain: #2C3845;
+$poppy: #BD2A4E;
+
+html {
   box-sizing: border-box;
   scroll-behavior: smooth;
-  margin: 0;
-  padding: 0;
 }
 
 *,
@@ -20,27 +21,73 @@ body {
   background-color: $main-color;
   line-height: 1.5;
   font-size: 1.25rem;
-  color: white;
+  color: snow;
+  margin: 0;
+  padding: 0;
   #editor {
     width: 50vw;
     background-color: $editor-color;
     color: black;
-    padding: 5rem 2.5rem 0 2.5rem;
+    padding: 2.5rem 2.5rem 0 2.5rem;
     border: none;
     outline: none;
     overflow: auto;
   }
   #preview {
     height: 100%;
-    padding: 2.5rem;
+    padding: 0 2.5rem;
   }
+
+  p {
+    text-indent: 1rem;
+  }
+
+  // [link](url) Links
+  a {
+    text-decoration: none;
+    color: lighten($rain, 35%);
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+
+  // 1. - Lists
+  ol, ul {
+    list-style-position: inside;
+  }
+
+  // > Quotes
   blockquote {
-    display: inline-block;
-    background-color: gray;
-    color: white;
-    padding: 0 10px;
+    padding: 10px;
+    background-color: #272823;
     border-left: 3px solid white;
   }
+
+  // | Tables |
+  table {
+      border-radius: 5px;
+      font-weight: normal;
+      border: none;
+      border-collapse: collapse;
+      width: 100%;
+      max-width: 100%;
+      white-space: nowrap;
+      background-color: white;
+    }
+    table td, table th {
+      text-align: center;
+    }
+    thead th {
+    background: $rain;
+    }
+  
+    tbody tr:nth-child(odd) {
+      background-color: lighten($rain, 6%);
+    }
+    tbody tr:nth-child(even) {
+    background-color: $rain;
+    }
+
   img {
     width: 300px;
     height: 300px;
