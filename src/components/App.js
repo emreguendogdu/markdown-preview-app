@@ -13,6 +13,11 @@ const App = () => {
   console.log(value);
     return (
     <>
+    {/* Make all hyperlinks open in a new tab */}
+    <head>
+      <base target="_blank" /> 
+    </head>
+
       <body>
         <textarea id="editor" value={value} onChange={handleChange}></textarea>
         <Preview value={value}/>
