@@ -1,7 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap");
 $main-color: #282c34;
 $editor-color: #ede9da;
-$rain: #2C3845;
-$poppy: #BD2A4E;
+$rain: #2c3845;
+$poppy: #bd2a4e;
 
 html {
   box-sizing: border-box;
@@ -15,32 +16,35 @@ html {
 }
 
 body {
-  width: 100vw;
+  margin: 0;
+  padding: 0;
+  background: $main-color;
+}
+
+main#app {
   display: flex;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background-color: $main-color;
   line-height: 1.5;
   font-size: 1.2rem;
   color: snow;
-  margin: 0;
-  padding: 0;
 
   // Editor section
   #editor {
     width: 100vw;
     background-color: $editor-color;
     color: black;
-    padding: 2.5rem;
+    padding: 40px;
     font-size: 1rem;
   }
 
   // Preview section
   #preview {
     height: 100%;
-    padding: 0 2.5rem;
+    padding: 0 40px;
   }
   h1 {
-    font-size: 2rem
+    font-size: 2rem;
   }
   // Paragraphs, plain text
   p {
@@ -57,7 +61,8 @@ body {
   }
 
   // 1. - Lists
-  ol, ul {
+  ol,
+  ul {
     list-style-position: inside;
     margin: 0;
   }
@@ -71,34 +76,35 @@ body {
 
   // | Tables |
   table {
-      border-radius: 5px;
-      font-weight: normal;
-      border: none;
-      border-collapse: collapse;
-      width: 100%;
-      max-width: 100%;
-      white-space: nowrap;
-      background-color: white;
-      margin: 15px;
-    }
-    table td, table th {
-      text-align: center;
-    }
-    thead th {
+    border-radius: 5px;
+    font-weight: normal;
+    border: none;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+    white-space: nowrap;
+    background-color: white;
+    margin: 15px;
+  }
+  table td,
+  table th {
+    text-align: center;
+  }
+  thead th {
     background: $rain;
-    }
-  
-    tbody tr:nth-child(odd) {
-      background-color: lighten($rain, 6%);
-    }
-    tbody tr:nth-child(even) {
+  }
+
+  tbody tr:nth-child(odd) {
+    background-color: lighten($rain, 6%);
+  }
+  tbody tr:nth-child(even) {
     background-color: $rain;
-    }
+  }
 
   // ![alt](link) Images
   img {
-        display: inline-block;
-        object-fit: contain;
-        width: 48%;
-      }
+    display: inline-block;
+    object-fit: contain;
+    width: 48%;
+  }
 }

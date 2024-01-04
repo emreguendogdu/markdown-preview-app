@@ -1,8 +1,11 @@
-export const placeholder = `# Welcome to my React Markdown Previewer!
+export const placeholder = `
+[<OG />](https://github.com/osmangund) {style=";position:absolute;right:60px;top:0;font-size:1.5rem;font-family:'Rubik Glitch', sans-serif;"}
 
-### Let's start with some codes as usual: 
+# Welcome to my React Markdown Previewer!
 
-Inline as \`Math.random()\`. Or go bigger:
+### Let's start with some code as usual: 
+
+Inline like \`Math.random()\`. Or bigger:
 
 \`\`\`javascript
 function checkWeather(weather) {
@@ -16,10 +19,10 @@ function checkWeather(weather) {
   }
 }
 \`\`\`
-### Now switch the channel:
+### Now we're switching the channel:
 
 Usage of italics include denoting titles like *Bhagavad Gita*. Basically, names of things are italicized. Movies, podcasts, books, albums, operas, foreign words.
-On the other hand, bold texts **increases average read time!** It makes content more scannable. As everybody is a full-speed rat for consuming content these days, bold texts give us valuable things to take away **faster**. Make sure you don't use it too much like ~~**_that_**~~ though. 
+On the other hand, bold texts **increases average read time!** It makes content more scannable. As everybody is a full-speed rat to consume more content these days, bold texts give us valuable things to take away **faster**. Make sure you don't use it too much like ~~**_that_**~~ though. 
 Also, never more ~~long tutorials~~. Always make stuff.
 
 > “Nothing in this world is harder than speaking the truth, nothing easier than flattery.” - Dostoevsky
@@ -56,7 +59,7 @@ And who created these masterpieces? [William Blake](https://en.wikipedia.org/wik
 - [ ] Greet other people
 - [ ] Pet every cat you see
 
-Feel free to reach me out at [LinkedIn](https://www.linkedin.com/in/osman-emre-gundogdu-066282257/), or [GitHub](https://github.com/emreguendogdu) or [Twitter](https://twitter.com/osmangund/){style="color:#1DA1F2"}!
+Feel free to reach me out at [LinkedIn](https://www.linkedin.com/in/osmangund/), [GitHub](https://github.com/osmangund) or [Twitter](https://twitter.com/osmangund/){style="color:#1DA1F2"}!
 
 ® 2023 - osmangund {style="font-size: .8rem;text-align:right;"}
 `
