@@ -46,9 +46,9 @@ Changing Lanes 💬🗣️ | Drama, Thriller | 6.5 | 2002 |
   - Invisible nervous system that runs the universe, connecting all things.
 - There are still 2 billion people around the world without access to safely drinkable water.
 
-![William Blake painting](/assets/blake1.jpg)
+![William Blake painting](/markdown-previewer/assets/blake1.jpg)
 
-![William Blake painting 2](/assets/blake2.webp)
+![William Blake painting 2](/markdown-previewer/assets/blake2.webp)
 
 And who created these masterpieces? [William Blake](https://en.wikipedia.org/wiki/William_Blake).
 
