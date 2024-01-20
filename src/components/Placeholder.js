@@ -3,9 +3,7 @@ export const placeholder = `
 
 # Welcome to my React Markdown Previewer!
 
-### Let's start with some code as usual: 
-
-Inline like \`Math.random()\`. Or bigger:
+### Let's start with some code: 
 
 \`\`\`javascript
 function checkWeather(weather) {
@@ -19,13 +17,7 @@ function checkWeather(weather) {
   }
 }
 \`\`\`
-### Now we're switching the channel:
-
-Usage of italics include denoting titles like *Bhagavad Gita*. Basically, names of things are italicized. Movies, podcasts, books, albums, operas, foreign words.
-On the other hand, bold texts **increases average read time!** It makes content more scannable. As everybody is a full-speed rat to consume more content these days, bold texts give us valuable things to take away **faster**. Make sure you don't use it too much like ~~**_that_**~~ though. 
-Also, never more ~~long tutorials~~. Always make stuff.
-
-> “Nothing in this world is harder than speaking the truth, nothing easier than flattery.” - Dostoevsky
+### Now change the show:
 
 Some movies I added on my watchlist that [Eckhart Tolle recommends](https://m.imdb.com/list/ls057211237/):
 
@@ -46,11 +38,17 @@ Changing Lanes 💬🗣️ | Drama, Thriller | 6.5 | 2002 |
   - Invisible nervous system that runs the universe, connecting all things.
 - There are still 2 billion people around the world without access to safely drinkable water.
 
+
+
 ![William Blake painting](/markdown-previewer/assets/blake1.jpg)
 
 ![William Blake painting 2](/markdown-previewer/assets/blake2.webp)
 
 And who created these masterpieces? [William Blake](https://en.wikipedia.org/wiki/William_Blake).
+
+Usage of italics include denoting titles like *Bhagavad Gita*. Basically, names of things are italicized. Movies, podcasts, books, albums, operas, foreign words.
+On the other hand, bold texts **increases average read time!** It makes content more scannable. As everybody is a full-speed rat to consume more content these days, bold texts give us valuable things to take away **faster**. Make sure you don't use it too much like ~~**_that_**~~ though. 
+Also, never more ~~long tutorials~~. Always make stuff.
 
 #### TODO:
 - [X] Update website
@@ -58,6 +56,8 @@ And who created these masterpieces? [William Blake](https://en.wikipedia.org/wik
 - [ ] Workout
 - [ ] Greet other people
 - [ ] Pet every cat you see
+
+> “Nothing in this world is harder than speaking the truth, nothing easier than flattery.” - Dostoevsky
 
 Feel free to reach me out at [LinkedIn](https://www.linkedin.com/in/osmangund/), [GitHub](https://github.com/osmangund) or [Twitter](https://twitter.com/osmangund/){style="color:#1DA1F2"}!
 
